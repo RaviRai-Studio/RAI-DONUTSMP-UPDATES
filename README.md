@@ -62,10 +62,6 @@ messages:
 
 
   
-Get Started:
-Simply download and install the RAI DONUTSMP UPDATES plugin, configure it to suit your server's needs, and keep your players informed with ease!
-
-Keep your server community engaged and informed with RAI DONUTSMP UPDATES! Download now and start updating your players in style.
 
 
 
