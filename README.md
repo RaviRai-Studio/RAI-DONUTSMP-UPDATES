@@ -30,7 +30,7 @@ rai-updates.reload: Allows reloading of the plugin configuration. (Default: OP)
 rai-updates.open: Allows opening of the update book. (Default: OP)
 Configuration Example:
 
-``
+```
 book:
   title: Update Book
   author: YourAuthor
@@ -58,7 +58,10 @@ messages:
   reloaded: '&aYou successfully reloaded the config!'
   permission: '&cYou dont have permission to use this command!'
   opened: '&a&lYou successfully opened the Book!'
-  onlyInWhitelistWorld: '&cʏᴏᴜ ᴄᴀɴ ᴏɴʟʏ ᴛʜɪѕ ᴄᴏᴍᴍᴀɴᴅ ɪɴ ѕᴘᴀᴡɴ'``
+  onlyInWhitelistWorld: '&cʏᴏᴜ ᴄᴀɴ ᴏɴʟʏ ᴛʜɪѕ ᴄᴏᴍᴍᴀɴᴅ ɪɴ ѕᴘᴀᴡɴ'```
+
+
+  
 Get Started:
 Simply download and install the RAI DONUTSMP UPDATES plugin, configure it to suit your server's needs, and keep your players informed with ease!
 
